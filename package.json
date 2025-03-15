@@ -1,0 +1,24 @@
+{
+  "name": "@pietroaandrade/module_npm_web",
+  "version": "1.0.0",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pietroaandrade/module_npm_web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pietroaandrade/module_npm_web/issues"
+  },
+  "homepage": "https://github.com/pietroaandrade/module_npm_web#readme",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "cows": "^3.0.1"
+  }
+}
