@@ -65,6 +65,19 @@ Se não for passada nenhuma cor, a vaca será exibida na cor padrão (azul).
    ||      ||
   //\\     //\\
   ```
+## Importante
+
+### Alterar o `type` no `package.json` para `module`
+
+Para que o código funcione corretamente, você deve garantir que o seu projeto esteja configurado para usar módulos ES. Isso pode ser feito alterando o `type` para `module` no arquivo `package.json`:
+
+```json
+{
+  "type": "module"
+}
+```
+
+Isso permitirá o uso da sintaxe `import`/`export` no seu código.
 
 ## Dependências
 
