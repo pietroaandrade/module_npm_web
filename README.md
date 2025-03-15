@@ -45,7 +45,7 @@ Depois de instalar o pacote, você pode importá-lo e chamar a função `imprimi
 Exemplo de uso:
 
 ```javascript
-import imprimirVaca from 'imprimirvaca';
+import imprimirVaca from '@pietroaandrade/module_npm_web';
 
 imprimirVaca('green');
 ```
