@@ -24,11 +24,11 @@
 
 ### Pietro Brandalise De Andrade - RM560142
 
-###Ícaro Henrique de Souza Calixto - RM560278
+### Ícaro Henrique de Souza Calixto - RM560278
 
-###Caio Costa Beraldo - RM560775
+### Caio Costa Beraldo - RM560775
 
-###Victor Kenzo Mikado- RM560057
+### Victor Kenzo Mikado- RM560057
 
 ## Instalação
 
